@@ -1,15 +1,15 @@
 {
-  "Acura ILX 2016-18": {
-    "platform": "ACURA_ILX",
-    "make": "Acura",
-    "brand": "honda",
-    "model": "ILX",
+  "MG-ZS-EV": {
+    "platform": "MG",
+    "make": "MG",
+    "brand": "mg",
+    "model": "ZS-EV",
     "year": [
-      "2016",
-      "2017",
-      "2018"
+      "2021",
+      "2011",
+      "2023"
     ],
-    "package": "Technology Plus Package or AcuraWatch Plus"
+    "package": "All"
   },
   "Acura ILX 2019": {
     "platform": "ACURA_ILX",
